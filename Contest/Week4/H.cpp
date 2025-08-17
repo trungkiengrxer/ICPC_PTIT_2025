@@ -1,3 +1,17 @@
+// Cho ba xâu s1​,s2​,s3​. Tìm độ dài ngắn nhất của một xâu sao cho xâu đó chứa cả s1​, s2 và s3​.
+
+// Input
+
+// Gồm 3 dòng, mỗi dòng mô tả một xâu.
+
+// Tất cả các xâu đều không rỗng, chỉ bao gồm các chữ cái Latinh viết thường.
+
+// Độ dài của mỗi chuỗi không vượt quá 105.
+
+// Output
+
+// In ra một số duy nhất — là độ dài tối thiểu của một xâu mà chứa cả s1​,s2​ và s3​.
+
 #include <algorithm>
 #include <iostream>
 #include <string>
